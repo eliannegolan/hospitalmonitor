@@ -1,0 +1,20 @@
+{
+  "properties": [
+    {
+      "name": "org.springframework.web.context.WebApplicationContext",
+      "type": "java.lang.String",
+      "description": "Description for org.springframework.web.context.WebApplicationContext."
+    },
+    {
+      "name": "vaadin.compatibilityMode",
+      "type": "java.lang.String",
+      "description": "Description for vaadin.compatibilityMode."
+    },
+    {
+      "name": "vaadin.pnpm.enable",
+      "type": "java.lang.String",
+      "description": "Description for vaadin.pnpm.enable."
+    }
+
+
+  ] }
